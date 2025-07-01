@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/no2bewkpvjcrxd7k?svg=true)](https://ci.appveyor.com/project/dm-morozov/netology-50-typescript)
+[![Build status](https://ci.appveyor.com/api/projects/status/ue7ul43e0515ros2?svg=true)](https://ci.appveyor.com/project/dm-morozov/netology-51-working-environment)
+![CI](https://github.com/dm-morozov/netology-51-working-environment/actions/workflows/web.yml/badge.svg)
 ![Netology](https://img.shields.io/badge/Netology-JavaScript-blue)
 
 # 🧾 [Домашнее задание к занятию "1. Рабочее окружение"](./README_for_Netology.md)
