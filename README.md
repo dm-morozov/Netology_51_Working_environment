@@ -10,6 +10,13 @@
 
 ---
 
+### 🌐 Демо:
+
+Доступно по адресу:  
+👉 [https://dm-morozov.github.io/netology-51-working-environment/](https://dm-morozov.github.io/netology-51-working-environment/)
+
+---
+
 ## 📧 Контакты
 
 Если возникнут вопросы, пишите:

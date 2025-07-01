@@ -12,7 +12,8 @@
     "build": "webpack --env production",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
-    "prepare": "husky"
+    "prepare": "husky",
+    "homepage": "https://dm-morozov.github.io/netology-51-working-environment"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
